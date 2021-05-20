@@ -11,7 +11,7 @@ How to run it
 You can run the application by simply starting
 
 ```
-mvn clean spring-boot:run
+mvn clean install
 
 ```
 
